@@ -1,6 +1,6 @@
 cask "ghostmouse" do
-  version "1.3.2"
-  sha256 "f40c0f86abf1a405750614e0f9de9e5ce26136cc13aa2bbfd1b73fc05dc64fbd"
+  version "1.3.3"
+  sha256 "2abe44f246d0520d282cef37365a08ed5b4837c2c0e4048b74d5d34caabe7f39"
 
   url "https://github.com/joeystdio/GhostMouse/releases/download/v#{version}/GhostMouse.dmg"
   name "GhostMouse"
