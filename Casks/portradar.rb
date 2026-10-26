@@ -1,6 +1,6 @@
 cask "portradar" do
   version "1.0.0"
-  sha256 "1d4856bc94077f8c9ce59031644a4611adf742d39cc51694f9c93eef5a9fee43"
+  sha256 "d26c0dd830603af3b2c0f3da24bf613013d2a8ab6c3999bf794cdbe913c425d3"
 
   url "https://github.com/joeystdio/PortRadar/releases/download/v#{version}/PortRadar.dmg"
   name "PortRadar"
