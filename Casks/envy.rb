@@ -1,6 +1,6 @@
 cask "envy" do
-  version "1.1.1"
-  sha256 "511a41d47a179779fb0a537ade890bab25a63f0f0d51a00dbdb479e96c0b2ec2"
+  version "1.2.0"
+  sha256 "f76211512e1b90cf3312e87fd609e2247e825a6de54ab2bce70350a906663110"
 
   url "https://github.com/joeystdio/envy/releases/download/v#{version}/Envy.dmg"
   name "Envy"
